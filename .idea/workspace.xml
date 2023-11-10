@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3995a50-9507-48f4-8992-996982026ae5" name="Changes" comment="creating discount method and first test">
+    <list default="true" id="c3995a50-9507-48f4-8992-996982026ae5" name="Changes" comment="rest of the tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DiscoountsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiscoountsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DiscoountsTest">
+  <component name="RunManager" selected="JUnit.GeometryTest">
     <configuration name="DiscoountsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SelfAssesmentSoftTest" />
       <extension name="coverage" sample_coverage="false" />
@@ -167,7 +166,7 @@
       <updated>1699615102235</updated>
       <workItem from="1699615103255" duration="4919000" />
       <workItem from="1699631524623" duration="1790000" />
-      <workItem from="1699633346227" duration="293000" />
+      <workItem from="1699633346227" duration="889000" />
     </task>
     <task id="LOCAL-00001" summary="Creating test">
       <option name="closed" value="true" />
@@ -185,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699620728322</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rest of the tests">
+      <option name="closed" value="true" />
+      <created>1699633659116</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699633659116</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +202,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Creating test" />
     <MESSAGE value="creating discount method and first test" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating discount method and first test" />
+    <MESSAGE value="rest of the tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="rest of the tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -209,10 +217,10 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SelfAssesmentSoftTest$GeometryTest.ic" NAME="GeometryTest Coverage Results" MODIFIED="1699633530019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/SelfAssesmentSoftTest$GeometryTest.ic" NAME="GeometryTest Coverage Results" MODIFIED="1699634241059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
     <SUITE FILE_PATH="coverage/SelfAssesmentSoftTest$DiscountsTest.ic" NAME="DiscountsTest Coverage Results" MODIFIED="1699632220731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
     <SUITE FILE_PATH="coverage/SelfAssesmentSoftTest$DiscoountsTest_checkDiscount.ic" NAME="DiscoountsTest.checkDiscount Coverage Results" MODIFIED="1699632836658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/SelfAssesmentSoftTest$DiscoountsTest_Discount7_and_1_more.ic" NAME="DiscoountsTest,Discount7 and 1 more Coverage Results" MODIFIED="1699633608167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/SelfAssesmentSoftTest$DiscoountsTest.ic" NAME="DiscoountsTest Coverage Results" MODIFIED="1699633630808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/SelfAssesmentSoftTest$DiscoountsTest.ic" NAME="DiscoountsTest Coverage Results" MODIFIED="1699634188720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
