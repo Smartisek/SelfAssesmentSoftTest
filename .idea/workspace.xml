@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3995a50-9507-48f4-8992-996982026ae5" name="Changes" comment="">
+    <list default="true" id="c3995a50-9507-48f4-8992-996982026ae5" name="Changes" comment="Creating test">
+      <change afterPath="$PROJECT_DIR$/src/Discoounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiscoountsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelfAssesmentSoftTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SelfAssesmentSoftTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Geometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Geometry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeometryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeometryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Smartisek"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4589d674-6d96-46f3-b83b-8891964bb596" />
+        <option name="url" value="https://github.com/Smartisek/SelfAssesmentSoftTest.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
@@ -68,7 +81,17 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GeometryTest">
+  <component name="RunManager" selected="JUnit.DiscoountsTest.checkDiscount">
+    <configuration name="DiscoountsTest.checkDiscount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SelfAssesmentSoftTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DiscoountsTest" />
+      <option name="METHOD_NAME" value="checkDiscount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GeometryTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="SelfAssesmentSoftTest" />
       <extension name="coverage" sample_coverage="false" />
@@ -92,6 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DiscoountsTest.checkDiscount" />
         <item itemvalue="JUnit.GeometryTest.IsntTriangle" />
       </list>
     </recent_temporary>
@@ -104,12 +128,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699615102235</updated>
-      <workItem from="1699615103255" duration="2381000" />
+      <workItem from="1699615103255" duration="4024000" />
     </task>
+    <task id="LOCAL-00001" summary="Creating test">
+      <option name="closed" value="true" />
+      <created>1699617561697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699617561697</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Creating test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DiscoountsTest.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SelfAssesmentSoftTest$GeometryTest.ic" NAME="GeometryTest Coverage Results" MODIFIED="1699617040749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
